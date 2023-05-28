@@ -13,3 +13,7 @@ src="https://cdn.discordapp.com/attachments/1046837773790883912/1106351763625361
 # Skills;
 
 - Making Shitty Whitelists 🔐
+
+# Current Interests;
+
+- C++/C#
