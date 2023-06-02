@@ -17,3 +17,5 @@ src="https://cdn.discordapp.com/attachments/1046837773790883912/1106351763625361
 # Current Interests;
 
 - C++/C#
+
+# Note : everything i post is going to be ass cus idc abt it 
